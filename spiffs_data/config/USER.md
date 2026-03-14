@@ -1,5 +1,5 @@
 # User Profile
 
-- Name: (not set)
-- Language: Chinese / English
+- Name: Kon
+- Language: Chinese
 - Timezone: (not set)
